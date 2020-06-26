@@ -44,3 +44,8 @@ Find and learn things in right way, modern C/C++ development and good practices.
 [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)  
 [QuickJS](https://bellard.org/quickjs/)  
 [A React Renderer for SSD1306 OLED chip on Raspberry Pi (With QuickJS)](https://github.com/doodlewind/react-ssd1306)
+
+## Tools for documentation
+[https://whimsical.com](https://whimsical.com) - (Schematics)  
+[https://excalidraw.com](https://excalidraw.com) - (Schematics)  
+[https://tree.nathanfriend.io](https://tree.nathanfriend.io/?s=(%27options!(%27fancy!true~fullPath!false~trailingSlash!true)~5(%275%27Edit%20me%20to%20generate4a0nic6tre6*diagram%27%3A3*%3A%7D4Use%20indentation0to%20indicat6fil6and3folder3nesting.02You%20can%20even32us6*2markdown3*2bullets%27%3A%27)~version!%271%27)*%20%2004*2-%2030*4%5Cn*5source!6e3%01654320&fbclid=IwAR2IbuIQjemCFuRCcUdf1_WoY5USHMknRnLcVdRyIv0VYObRTE3_qIr6ZWU) - (Tree)  
