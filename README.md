@@ -18,6 +18,11 @@ Find and learn things in right way, modern C/C++ development and good practices.
 
 ### Target
 
+## TODO
+- [x] run a simple app (hello world)
+- [ ] add library
+- [ ] run external lib from includes folder
+- [ ] add build sequence for build quickjs first
 
 
 ## 🔨 Log
